@@ -32,6 +32,6 @@ make
 Si vous êtes un recruteur et que vous voulez obtenir le code source, vous pouvez me contacter ici : **taomalbe@student.42perpignan.fr**
 
 ## Auteurs
-- [lhabrial](https://github.com/vorace3200)
+- [vorace32](https://github.com/vorace3200)
 - [qbarron](https://github.com/Sul-iac)
 - [taomalbe](https://github.com/Taki-do)
